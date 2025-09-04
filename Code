@@ -94,12 +94,12 @@
 
                   <!-- Github link -->
                   <span class="link-block">
-                    <a href="https://github.com/YOUR REPO HERE" target="_blank"
+                    <a href="https://github.com/" target="_blank"
                     class="external-link button is-normal is-rounded is-dark">
                     <span class="icon">
                       <i class="fab fa-github"></i>
                     </span>
-                    <span>Code</span>
+                    <span>Code (coming soon)</span>
                   </a>
                 </span>
 
@@ -129,7 +129,7 @@
       <!-- <h2 class="title is-3 has-text-centered">Complete Pipeline Architecture</h2> -->
       <div class="columns is-centered has-text-centered">
         <div class="column is-four-fifths">
-          <img src="static/images/main.png" alt="Main Diagram" style="max-width: 90%; height: auto;"/>
+          <img src="static/images/Main.png" alt="Main Diagram" style="max-width: 90%; height: auto;"/>
           <!-- <h3 class="subtitle has-text-centered">
             Complete pipeline architecture.
           </h3> -->
